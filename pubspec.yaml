@@ -1,4 +1,4 @@
-name: camera_pixcar
+name: camera_android
 description: Android implementation of the camera plugin.
 version: 0.10.0+4
 
